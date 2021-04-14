@@ -1,0 +1,83 @@
+{
+  "@@last_modified": "2018-12-16T14:55:33.523591",
+  "title": "اتصل بنا",
+  "@title": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "btnsubmit": "أرسل",
+  "@btnsubmit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "locale": "ar",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblname": "الاسم",
+  "@lblname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblphone": "رقم الهاتف",
+  "@lblphone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemail": "البريد الإلكتروني",
+  "@lblemail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lbltest": "تيست ",
+  "@lbltest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblViewTxt": "عرض ",
+  "@lblViewTxt": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblLogoSrc": "images/asset13.png",
+  "@lblLogoSrc": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemailPlaceholder": "من فضلك قم بادخال البريد الالكتروني",
+  "@lblemailPlaceholder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpasswordPlaceholder": "من فضلك قم بادخال الرقم السري",
+  "@lblpasswordPlaceholder": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpassword": "الرقم السري",
+  "@lblpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblOr": " أو",
+  "@lblOr": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblLoginWithGmail": " تسجيل الدخول بالجيميل",
+  "@lblLoginWithGmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblHaveAccount": " ?لديك حساب",
+  "@lblHaveAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblColors":"الالوان",
+  "@lblColors": {
+    "type": "text",
+    "placeholders": {}
+  },
+}
